@@ -16,6 +16,7 @@
     <div class="conatiner m-5 p-5">
         <div class="row">
             <div class="col-md-12">
+                <a href="https://datatables.net/extensions/buttons/examples/initialisation/export.html" target="_blank" rel="noopener noreferrer"><h4 class="text-center">Datable</h4></a>
                 <div class="card">
                     <div class="card-body">
                         <table id="example" class="display" style="width:100%">
